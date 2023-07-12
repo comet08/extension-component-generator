@@ -1,5 +1,5 @@
 export function componentTemplate(componentName: string) {
-  return `import * from './${componentName}.styled';
+  return `import * as S from './${componentName}.styled';
   
 export default function ${componentName} {
 

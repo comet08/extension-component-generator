@@ -1,11 +1,13 @@
 {
   "name": "component-generator-for-dt",
-  "displayName": "component-generator-for-dt",
+  "displayName": "Component Generator DT",
+  "publisher": "cometAndRememberMe",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.80.0"
   },
+  "icon": "images/icon.png",
   "categories": [
     "Other"
   ],
