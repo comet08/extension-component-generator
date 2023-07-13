@@ -1,3 +1,3 @@
 export function indexTemplate(componentName: string) {
-  return `export { default } from './${componentName}'`
+  return `export { default } from './${componentName}';`
 }

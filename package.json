@@ -3,7 +3,7 @@
   "displayName": "Component Generator DT",
   "publisher": "cometAndRememberMe",
   "description": "",
-  "version": "0.1.2",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.80.0"
   },
